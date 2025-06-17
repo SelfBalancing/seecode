@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "8e098d5c873535db",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfc13804d3497c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b4cdbe4e69bb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏫清华驭风计划/🧱基础课程/python最小可用知识/Jupyter notebook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jupyter notebook"
+            }
+          },
+          {
+            "id": "326ee2f0c5af335f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏫清华驭风计划/🤖机器学习/练习及实验/ML06随堂练习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML06随堂练习"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d4df08af6d818c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd947079986b34a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "877fac87c4c73f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f175abdba0264b61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "06016da60fdd37f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b45c95f41ed50cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "31890131adfb24f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "984baa077ea866cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "演示目录1/文档-带评论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "文档-带评论 的反向链接列表"
+            }
+          },
+          {
+            "id": "f86a2d499b606350",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "演示目录1/文档-带评论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "文档-带评论 的出链列表"
+            }
+          },
+          {
+            "id": "d75a2e270e55c2cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bd0182d6b69f63d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "演示目录1/文档-带评论.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "文档-带评论 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "66b4cdbe4e69bb28",
+  "lastOpenFiles": [
+    "🏫清华驭风计划/🧱基础课程/🐍Python最小可用知识.md",
+    "🏫清华驭风计划/🤖机器学习/3.决策树学习.md",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/ML06随堂练习.md",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/ML04随堂练习.md",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/ML05随堂练习.md",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250612225453.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250612225437.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250612224810.png",
+    "🏫清华驭风计划/🤖机器学习/2. 机器学习实验方法与原则.md",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611231200.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611231149.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611220528.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611215752.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611215448.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611211908.png",
+    "🏫清华驭风计划/🤖机器学习/assets/Pasted image 20250611210857.png",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/ML03随堂练习.md",
+    "🏫清华驭风计划/🤖机器学习/1. 机器学习系统设计.md",
+    "🏫清华驭风计划/🤖机器学习/机器学习目录.md",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/ML02随堂练习.md",
+    "🏫清华驭风计划/🤖机器学习/assets",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/ML01随堂练习.md",
+    "🏫清华驭风计划/🤖机器学习/随堂练习及实验目录.md",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/assets",
+    "🏫清华驭风计划/🤖机器学习/练习及实验/实验一.md",
+    "🏫清华驭风计划/🤖机器学习/练习及实验",
+    "🏫清华驭风计划/🧱基础课程/python最小可用知识/Matplotlib.md",
+    "🏫清华驭风计划/🧱基础课程/python最小可用知识/Pandas.md",
+    "🏫清华驭风计划/🧱基础课程/python最小可用知识/Numpy.md",
+    "🏫清华驭风计划/🧱基础课程/python最小可用知识/Jupyter notebook.md",
+    "🏫清华驭风计划/🧱基础课程/🎲概率论.md",
+    "🏫清华驭风计划/🧱基础课程/python最小可用知识/assets",
+    "🏫清华驭风计划/🧱基础课程/python最小可用知识",
+    "🏫清华驭风计划/🧱基础课程/assets/未命名",
+    "🏫清华驭风计划/课程相关/课程表.md",
+    "🏫清华驭风计划/课程相关",
+    "📔Obsidian/0元0代码0难度无需备案，专注写作，用Obsidian搭建博客的最简方案.md",
+    "🏫清华驭风计划/🤖机器学习",
+    "💻计算机基础/玩明白这个交互网站，你才算彻底理解计算机的底层原理.md",
+    "📔Obsidian/①初级篇-使用Components在Obsidian中搭建物品管理系统.md",
+    "📔Obsidian/②提升篇-使用Components在Obsidian中搭建物品管理系统.md",
+    "🪀产品体验/缅怀MatebookE丨最好用的Windows二合一笔记本不再有了.md",
+    "🛞沿途游记/沙河大集——六环边的市井业态.md",
+    "🏫清华驭风计划/🧱基础课程/🎲概率论",
+    "🏫清华驭风计划/🧱基础课程/assets"
+  ]
+}
